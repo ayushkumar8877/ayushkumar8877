@@ -1,3 +1,5 @@
+![logo](https://github.com/ayushkumar8877/ayushkumar8877/blob/main/Screenshot%202025-04-04%20100930.png)
+
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
